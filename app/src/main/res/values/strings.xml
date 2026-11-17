@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swap Money</string>
+    <string name="tagline">CONNECT. EXCHANGE. VERIFY.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_score">Score</string>
+    <string name="nav_profile">Profile</string>
+    <string name="compliance_banner_title">Pre-Launch Regulatory Sandbox</string>
+    <string name="compliance_banner_body">Swap Money is a P2P matching &amp; communication platform. It never holds funds, executes payments, or acts as a wallet. Live financial exchange facilitation awaits RBI legal review.</string>
+    <string name="offline_banner_text">Offline — Backend unreachable. Confirmed records preserved; submissions require connectivity.</string>
+</resources>
